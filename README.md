@@ -28,10 +28,11 @@ I'm dedicated to building tools that make data science accessible to non-technic
 
 ## 💼 Professional Experience
 ### Data Science Intern, Coding Raja Technologies  
+
 **Jun 2024 – Aug 2024 (Remote)**  
-- Developed a web-based time series forecasting tool using Prophet, boosting forecast accuracy by 25% and reducing computation time by 70%.
+- Developed a [web-based time series forecasting tool](https://github.com/MohitKapoor19/Time-Series-Forecasting-Using-Prophet) using Prophet, boosting forecast accuracy by 25% and reducing computation time by 70%.
 - Automated hyperparameter tuning and cross-validation for time series models, increasing prediction accuracy by 15%.
-- Built a movie recommendation system with 92% accuracy using cosine similarity.
+- Built a [movie recommendation system](https://github.com/MohitKapoor19/coding-raja-technologies-internship) with 92% accuracy using cosine similarity.
 - Enhanced usability of data science tools by designing intuitive Streamlit interfaces, improving accessibility by 40%.
 
 ## 🌟 Projects
